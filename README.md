@@ -1,4 +1,4 @@
-### github-script
+### Git Autopush
 Script that automates basic github functions dynamically.
 
 ### Fuctionality
