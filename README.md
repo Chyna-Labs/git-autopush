@@ -6,4 +6,3 @@ Script that automates basic github functions dynamically.
 - Write commit message based on filename.
 - Push to GitHub.
 - Monitor files in parent directory for modification, deletion or creation.
-- Python packag
